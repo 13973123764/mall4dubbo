@@ -11,5 +11,8 @@
 
     <artifactId>mall-api</artifactId>
 
+    <dependencies>
+        
+    </dependencies>
 
 </project>
