@@ -17,6 +17,11 @@
         <module>mall-sms</module>
         <module>mall-admin</module>
     </modules>
+    
+    <dependencies>
+
+        
+    </dependencies>
 
 
 </project>
